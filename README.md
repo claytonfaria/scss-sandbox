@@ -1,9 +1,9 @@
 # SCSS Sandbox
 SCSS / SASS Sandbox with main usage examples for personal practice
 
-How to use:
+## How to use:
 
-Initialize and create the package.json
+Initialize and create the package.json:
 `npm init -y`
 
 Inside package.json, make sure to add "sass" inside "scripts":
